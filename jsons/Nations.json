@@ -1670,6 +1670,32 @@
 			"Karlskrona","Borås","Fort Kristina","Reval","Vasa","Östersund","Torshälla","Kungälv","Växjö","Riga",
 			"Sundsvall","Västervik","Gävle","Viborg","Hudiksvall","Visby","Fort Carolusborg","Åmål","Tornå","Kinda"]	
 	},
+
+	{
+		"name": "Wales", 
+		"leaderName": "Owain Glyndwr",
+		"adjective": ["Welsh"],
+		"preferredVictoryType": "Cultural",
+
+		"declaringWar": "Prepare for war!",
+		"attacked": "You shall regret this!",
+		"defeated": "The victory is yours.",
+		"introduction": "Welcome, mighty leader.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Better hurry, I may change my mind.",
+		"outerColor": [10,52,45],
+		"innerColor": [189,90,80],
+		"uniqueName": "Hafod a Hendref",
+		"uniques": [
+"[+1 Food, +1 Gold] from every [Sheep]",
+"[+10]% Strength <in [Hill] tiles>"
+],
+		"cities": [// Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+            "Cardiff","Swansea","Casnewydd","Wrecsam","Y Barri","Cwmbran","Pen-y-bont ar Ogwr","Lianelli","Penrhyndeudraeth","Caerffili",
+            "Llanfairpwllgwyngyll","Ynysybwl","Pont-y-pwl","Bro Morgannwg","Cefn-Mawr","Coed Duon","Bwcle","Ystrad Mynach","Maesteg","Glyn Ebwy",
+            "Aberystwyth","Bangor","Senghenydd","Tumble","Ystradgynlais","Pontypridd","Bethesda"]	
+	},
 	{
 		"name": "The Zulu", 
 		"leaderName": "Shaka",
